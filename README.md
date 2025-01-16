@@ -1,2 +1,2 @@
-# StatsShuran
-I'm Shuran from China and I'm in the Statistical Finance stream.
+# ShuranYing
+I'm Shuran. I'm in the Statistical Finance stream.
